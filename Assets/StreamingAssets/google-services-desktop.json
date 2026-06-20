@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514772706103",
+    "project_id": "penaltyshootoutgame",
+    "storage_bucket": "penaltyshootoutgame.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514772706103:android:786ee05dd479e9a3abf0b2",
+        "android_client_info": {
+          "package_name": "com.ahmadnoweir.penaltyshootoutgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuy2SPTGUnxnSBK55HbrdmG-U3_jK3kTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
